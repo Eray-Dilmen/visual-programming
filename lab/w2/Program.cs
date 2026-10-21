@@ -64,7 +64,7 @@ namespace w2
         enum weekdays
         {
             Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
-        }
+        };
 
 
         [Flags]
